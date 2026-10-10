@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+<rect width="400" height="400" rx="64" fill="#063b32"/>
+<path d="M45 285 L150 165 L150 93 L202 38 L202 170 L275 103 L275 205 L347 270 L202 250 L118 300 Z" fill="#d6ad52"/>
+<path d="M90 285 L153 225 L153 280 L205 280 L205 160 L242 198 L242 294 L290 294 L205 335 Z" fill="#fff"/>
+<path d="M176 82 L176 151 M225 98 L225 158 M268 138 L268 194" stroke="#fff" stroke-width="9" fill="none"/>
+<path d="M42 330 Q200 365 358 327" stroke="#d6ad52" stroke-width="11" fill="none" stroke-linecap="round"/>
+<text x="200" y="385" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#fff">بوادي القمة</text>
+</svg>
